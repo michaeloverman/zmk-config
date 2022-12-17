@@ -3,9 +3,9 @@ manifest:
     - name: michaeloverman
       url-base: https://github.com/michaeloverman
   projects:
-    - name: zmk
+    - name: zmk-config
       remote: michaeloverman
-      revision: with-tap-dance
+      revision: main
       import: app/west.yml
   self:
     path: config
