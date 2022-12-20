@@ -6,6 +6,6 @@ manifest:
     - name: zmk-config
       remote: michaeloverman
       revision: main
-      import: app/west.yml
+      import: config/west.yml
   self:
     path: config
