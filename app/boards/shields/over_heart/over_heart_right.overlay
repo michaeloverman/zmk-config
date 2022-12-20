@@ -1,5 +1,0 @@
-#include "over_heart.dtsi"
-
-&default_transform {
-	col-offset = <17>;
-};
