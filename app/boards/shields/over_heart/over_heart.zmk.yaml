@@ -1,0 +1,13 @@
+file_format: "1"
+id: over_heart
+name: Over Heart
+type: shield
+url: https://github.com/michaeloverman/zmk-config
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+siblings:
+  - card_left
+  - card_right
+  - card_dongle

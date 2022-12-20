@@ -1,4 +1,4 @@
-#include "over_heart.dtsi"
+#include "card.dtsi"
 
 &default_transform {
 	col-offset = <17>;
