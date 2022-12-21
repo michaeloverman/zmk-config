@@ -4,7 +4,7 @@ manifest:
       url-base: https://github.com/michaeloverman
   projects:
     - name: zmk-config
-      remote: michaeloverman/zmk-config
+      remote: michaeloverman
       revision: main
   self:
     path: config
